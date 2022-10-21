@@ -2,6 +2,7 @@
 
 Componente que permite visualizar los productos agregados al carrito en cuanto se adiciona un producto
 
+![special-info-modal](https://user-images.githubusercontent.com/95322919/197269634-d6e5ff17-2a5f-41d4-8432-7bd873d93fa9.png)
 
 ____________
 ## :hammer:Configuración del proyecto
